@@ -1,3 +1,1 @@
-# Master-of-Thesis-Zimeng Wu
-
-## computer files for thesis
+# Computer files for thesis_Zimeng Wu

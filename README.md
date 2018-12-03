@@ -1,8 +1,8 @@
 # Computer files for thesis_Zimeng Wu
 ## Tables
-- Table 1 <br>
+- **Table 1** <br>
 See file folder `[Table 1. Overview of the simulations]`, including programming for all cases.
-- Table 2 <br>
+- **Table 2** <br>
 See file folder `[Table 2. Overview of Initial Reynolds number for cases with temperature difference]`.
 ## Figures
 - **Figure 1** <br>
